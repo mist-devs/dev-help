@@ -1,12 +1,5 @@
-# repo-template
-this is a template for new repos!
-(include everything between "TEMPLATE START" and "TEMPLATE END")
-########TEMPLATE START############
+# Dev Help
 
-
-Info: {your repo info here}
-Author: {your name}
-Author Contact: {your discord e. g. "Wumpus#0000"}
-
-
-##########TEMPLATE END#############
+Info: Dev Help.
+Author: Korin - Mist Team
+Author Contact: Korin#9464
